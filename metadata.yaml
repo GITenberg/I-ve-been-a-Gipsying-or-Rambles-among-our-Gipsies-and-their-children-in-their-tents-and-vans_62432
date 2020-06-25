@@ -1,0 +1,27 @@
+_repo: I-ve-been-a-Gipsying-or-Rambles-among-our-Gipsies-and-their-children-in-their-tents-and-vans_62432
+_version: 0.0.1
+alternative_title: I've been a-Gipsying
+creator:
+  author:
+    agent_name: Smith, George
+    birthdate: 1831
+    deathdate: 1895
+    gutenberg_agent_id: '33394'
+    url: http://www.gutenberg.org/2009/agents/33394
+    wikipedia: https://en.wikipedia.org/wiki/George_Smith_(philanthropist)
+description: ''
+gutenberg_issued: '2020-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62432'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Romanies -- England'
+- !lcc 'DX'
+- GITenberg
+title: "I've been a Gipsying\r\nor, Rambles among our Gipsies and their children in\
+  \ their tents and vans"
+url: http://www.gutenberg.org/ebooks/62432
